@@ -1,6 +1,6 @@
 Helldivers 2 Queue Alert System
 
-This repository contains a set of Python scripts designed to assist players of Helldivers 2 by automating the monitoring of queue status through screen region color analysis and providing alerts through various actions.
+This repository contains a set of Python scripts designed to assist players of Helldivers 2 by automating the monitoring of queue status through screen region color analysis and providing an alert when you go through the queue.
 Scripts Overview
 
     color average.py: Monitors a specified screen region and calculates the average color, continuously printing these values to the console. Useful for identifying the right screen region and color values to monitor for queue status.
@@ -31,4 +31,4 @@ Customization
 
 Disclaimer
 
-This project is intended for educational purposes and personal use. Please respect the terms of service of any game or software you use it with.  The scripts and this readme were developed with ChatGPT
+This project is intended for educational purposes and personal use. Please respect the terms of service of any game or software you use it with.  The scripts and this readme were developed with ChatGPT.
